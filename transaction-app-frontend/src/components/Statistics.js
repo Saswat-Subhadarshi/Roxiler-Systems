@@ -1,5 +1,3 @@
-// src/components/Statistics.js
-
 import React from 'react';
 
 const Statistics = ({ totalSales, soldItems, unsoldItems }) => {
